@@ -229,5 +229,9 @@ shiftsync/
 - **Security** — Helmet, CORS, rate limiting, input validation
 
 ## License
-
 MIT
+
+<img width="1854" height="924" alt="image" src="https://github.com/user-attachments/assets/e5553198-e221-4151-bf62-502cc44a6624" />
+<img width="1854" height="927" alt="image" src="https://github.com/user-attachments/assets/0eeb65ee-320c-4538-b081-d357ef0d3b9c" />
+
+
